@@ -1,3 +1,11 @@
+element {
+  --blue-yonder: #587291ff;
+  --blue-green: #2f97c1ff;
+  --dark-turquoise: #1ccad8ff;
+  --turquoise: #15e6cdff;
+  --spring-green: #0cf574ff;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,10 +13,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: rgb(95, 95, 95);
+  background: #587291ff; 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
