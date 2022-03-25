@@ -1,9 +1,9 @@
 element {
-  --blue-yonder: #587291ff;
-  --blue-green: #2f97c1ff;
-  --dark-turquoise: #1ccad8ff;
-  --turquoise: #15e6cdff;
-  --spring-green: #0cf574ff;
+  --beau-blue: #b9d6f2ff;
+  --honolulu-blue: #006daaff;
+  --indian-red: #db5461ff;
+  --arctic-lime: #ceff1aff;
+  --raisin-black: #1d1e2cff;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #587291ff; 
+  background: #1d1e2cff; 
 }
 
 code {

@@ -20,7 +20,7 @@ const TodoList = ({todos}) => {
       <h1>Todo List</h1>
       {
         todos.map((todo, i) => (
-          <Todo todo={todo} />
+          <Todo todo={todo} idx={i}/>
         ))}
     </TodoListContainer>
     
